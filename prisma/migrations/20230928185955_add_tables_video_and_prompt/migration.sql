@@ -11,5 +11,5 @@ CREATE TABLE "Video" (
 CREATE TABLE "Prompt" (
     "id" TEXT NOT NULL PRIMARY KEY,
     "title" TEXT NOT NULL,
-    "tamplate" TEXT NOT NULL
+    "template" TEXT NOT NULL
 );
